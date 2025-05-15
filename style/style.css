@@ -140,13 +140,13 @@ body {
 }
 
 #page-two .content-container .img-container {
-    display: flex;
+    display: flex:
     flex-direction: column;
 }
 
 #page-two .content-container .img-container .img-content {
-    position: relative;
-}
+    position: relative
+}.
 
 .satu {
     position: relative;
