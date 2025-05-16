@@ -9,11 +9,11 @@ menu.onclick = () => {
     navbarNav.classList.toggle('active');
 };
 
-function angkat() [
+function angkat() {
     if (galon != beban) {
-        galon = undefined'
+        galon = undefined
     }
-]
+}
 
 // close sidebar 
 
